@@ -1,0 +1,6 @@
+{
+  "name": "AfriFlow",
+  "description": "One Wallet. All Africa. Send money, receive payments, convert currencies, pay merchants, and manage digital wallets securely across Africa and globally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
